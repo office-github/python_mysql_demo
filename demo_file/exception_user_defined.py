@@ -1,0 +1,2 @@
+class UserDefinedException(data):
+    pass
